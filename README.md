@@ -1,16 +1,15 @@
-## Hi there 👋
+## Rinna Koharu（小春凛奈） / Numeira
+- A member of [Gomorroth](https://github.com/Gomorroth)
 
-<!--
-**Rerigferl/Rerigferl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Links
+- Twitter
+  - [Numeira](https://x.com/numeira)
+  - [Gomorroth](https://x.com/gomorroth)
+- Misskey
+  - [にりらみすきー部](https://misskey.niri.la/@numeira)
+- Pixiv
+  - [Booth](https://ashley-scarlet.booth.pm/)
+  - [Fanbox](https://rerigferl.fanbox.cc/)
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍
